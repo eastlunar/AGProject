@@ -35,6 +35,7 @@ namespace ArcGisProject
 
         public Editor(IMapControl3 m_pMapControl) 
         {
+            InitializeComponent();
             this.m_pMapControl = m_pMapControl;
         }
     }
