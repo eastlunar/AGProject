@@ -20,6 +20,7 @@ namespace ArcGisProject
         #region class private members
         private IMapControl3 m_mapControl = null;
         private string m_mapDocumentName = string.Empty;
+        private Editor editToolbar;
         #endregion
 
         #region class constructor
@@ -125,8 +126,19 @@ namespace ArcGisProject
 
         private void miEditor_Click(object sender, EventArgs e)
         {
-            Editor editToolbar = new Editor(this.m_mapControl);
-            editToolbar.ShowDialog();
+            
+            if (miEditor.Checked == false)
+            {
+                editToolbar = new Editor(this.m_mapControl);
+                miEditor.Checked = true;
+                editToolbar.Show();
+            }
+            else
+            {
+                miEditor.Checked = false;
+                editToolbar.Close();
+                editToolbar.Hide();
+            }
         }
 
     }
