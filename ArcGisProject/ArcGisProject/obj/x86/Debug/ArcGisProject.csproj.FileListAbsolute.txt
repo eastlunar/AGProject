@@ -6,3 +6,4 @@ D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\bin\Debug\ArcGisPr
 D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\bin\Debug\ArcGisProject.pdb
 D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.exe
 D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.pdb
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.Editor.resources
