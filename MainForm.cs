@@ -123,5 +123,11 @@ namespace ArcGisProject
             statusBarXY.Text = string.Format("{0}, {1}  {2}", e.mapX.ToString("#######.##"), e.mapY.ToString("#######.##"), axMapControl1.MapUnits.ToString().Substring(4));
         }
 
+        private void miEditor_Click(object sender, EventArgs e)
+        {
+            Editor editToolbar = new Editor(this.m_mapControl);
+            editToolbar.ShowDialog();
+        }
+
     }
 }

@@ -1,0 +1,8 @@
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.csprojResolveAssemblyReference.cache
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.MainForm.resources
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.Properties.Resources.resources
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.csproj.GenerateResource.Cache
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\bin\Debug\ArcGisProject.exe
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\bin\Debug\ArcGisProject.pdb
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.exe
+D:\desktop\浙大\GIS程序设计\ArcGisProject\ArcGisProject\obj\x86\Debug\ArcGisProject.pdb
